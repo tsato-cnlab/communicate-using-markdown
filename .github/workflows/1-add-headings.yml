@@ -83,11 +83,11 @@ jobs:
             step_number: 1
             passed: ${{ !contains(steps.*.outcome, 'failure') }}
             results_table:
-              - description: "day-1.md file exists"
+              - description: "day-1.md ファイルが存在する"
                 passed: ${{ steps.check-file-exists.outcome == 'success' }}
-              - description: "One level 1 heading (#) added to day-1.md"
+              - description: "day-1.md にレベル 1 の見出し（#）が 1 つ追加されている"
                 passed: ${{ steps.check-h1.outcome == 'success' }}
-              - description: "Two level 2 heading (##) added to day-1.md"
+              - description: "day-1.md にレベル 2 の見出し（##）が 2 つ追加されている"
                 passed: ${{ steps.check-h2.outcome == 'success' }}
 
       - name: Create comment - step results

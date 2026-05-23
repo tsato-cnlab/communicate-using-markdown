@@ -66,7 +66,7 @@ jobs:
             step_number: 3
             passed: ${{ !contains(steps.*.outcome, 'failure') }}
             results_table:
-              - description: "Code block syntax in day-1.md"
+              - description: "day-1.md にコードブロック構文がある"
                 passed: ${{ steps.check-code-block.outcome == 'success' }}
 
       - name: Create comment - step results

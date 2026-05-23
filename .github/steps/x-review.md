@@ -1,21 +1,21 @@
-## Review
+## 振り返り
 
 <img src=https://octodex.github.com/images/chellocat.jpg alt=celebrate width=150 align=right>
 
-_Congratulations! You've completed this exercise!_
+_おめでとうございます。この演習を完了しました！_
 
-Here's a recap of the tasks you've accomplished in this exercise:
+この演習で達成したタスクを振り返りましょう。
 
-1. You added headings to organize content.
-1. You added a tasks list to a plan.
-1. You saved a code snippet in your review for future use.
-1. You added an image to your plan to make it prettier.
-1. And finally, you created finished a blog post using Markdown syntax.
+1. 内容を整理するために見出しを追加しました。
+1. 計画にタスクリストを追加しました。
+1. 後で使えるように、振り返りにコードスニペットを保存しました。
+1. 計画に画像を追加して見た目を良くしました。
+1. 最後に、Markdown 構文を使ってブログ記事を完成させました。
 
-### What's next?
+### 次は何をしますか？
 
-- Take another [GitHub Skills exercise](https://learn.github.com/skills).
-  - Continue with the [GitHub Pages](https://github.com/skills/github-pages) exercise to share your blog posts as an actual webpage.
-- Learn more about [Markdown](https://docs.github.com/github/writing-on-github).
-- Read the GitHub [Getting Started docs](https://docs.github.com/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- 別の [GitHub Skills 演習](https://learn.github.com/skills)を受講する。
+  - [GitHub Pages](https://github.com/skills/github-pages) 演習に進むと、ブログ記事を実際の Web ページとして公開できます。
+- [Markdown](https://docs.github.com/github/writing-on-github) についてさらに学ぶ。
+- GitHub の [Getting Started docs](https://docs.github.com/get-started) を読む。
+- コントリビュートできるプロジェクトを探すには、[GitHub Explore](https://github.com/explore) を確認してください。

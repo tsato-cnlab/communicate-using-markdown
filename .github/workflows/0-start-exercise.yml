@@ -20,8 +20,8 @@ jobs:
     name: Start Exercise
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.6.0
     with:
-      exercise-title: "Communicate using Markdown"
-      intro-message: "Organize ideas and collaborate using Markdown, a lightweight language for text formatting."
+      exercise-title: "Markdown でコミュニケーションする"
+      intro-message: "テキストを軽量に整形できる Markdown を使って、アイデアを整理し、共同作業を進めましょう。"
 
   post_next_step_content:
     name: Post next step content

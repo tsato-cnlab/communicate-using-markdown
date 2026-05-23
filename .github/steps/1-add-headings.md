@@ -1,21 +1,21 @@
-## Step 1: Add headings
+## ステップ 1: 見出しを追加する
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub such as:
+**_Markdown_ とは？** Markdown は、GitHub 上でコミュニケーションするための[軽量な構文](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)です。テキストを書式設定して、見出し、リスト、**太字**、_斜体_、表など、さまざまなスタイルを追加できます。Markdown は、GitHub の多くの場所で使えます。
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+- [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues)、[pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)、[discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions) のコメント
+- `.md` または `.markdown` 拡張子のファイル
+- [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) 内のテキストスニペット
 
-**What is a _heading_?** A heading is a larger bit of text at the beginning of a section. There are six sizes.
+**_見出し_ とは？** 見出しは、セクションの始まりに置く大きめのテキストです。サイズは 6 種類あります。
 
-### Example
+### 例
 
 ```md
 # This is an `<h1>` heading, which is the largest
 
 ## This is an `<h2>` heading
 
-###### This is an `<h6>`heading, which is the smallest
+###### This is an `<h6>` heading, which is the smallest
 ```
 
 # This is an `<h1>` heading, which is the largest
@@ -24,33 +24,33 @@
 
 ###### This is an `<h6>` heading, which is the smallest
 
-### ⌨️ Activity: Create a markdown file
+### :keyboard: アクティビティ: Markdown ファイルを作成する
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
+1. 新しいブラウザータブを開き、このタブで手順を読みながら、2 つ目のタブで作業してください。
 
-1. In the top navigation, select the **Code** tab.
+1. 上部ナビゲーションで **Code** タブを選択します。
 
-1. Create a new branch with the following name:
+1. 次の名前で新しいブランチを作成します。
 
    ```md
    start-blog
    ```
 
-1. Above the files list, click the **Add file** button and select **Create new file**.
+1. ファイル一覧の上にある **Add file** ボタンをクリックし、**Create new file** を選択します。
 
-1. Use the following file name.
+1. 次のファイル名を使います。
 
    ```md
    day-1.md
    ```
 
-1. In the editor, on the first line use a level one heading to give the page a title.
+1. エディターの 1 行目に、ページタイトルとしてレベル 1 の見出しを入力します。
 
    ```md
    # Daily Learning
    ```
 
-1. Add a couple level 2 headings for the names of each of the blog posts.
+1. 各ブログ記事の名前として、レベル 2 の見出しをいくつか追加します。
 
    ```md
    ## Morning Planning
@@ -58,16 +58,16 @@
    ## Review
    ```
 
-1. Above the editor, click the **Preview** toggle to view the rendered version.
+1. エディターの上にある **Preview** トグルをクリックして、レンダリング後の表示を確認します。
 
-1. In the top right, click the **Commit changes** button and commit directly to the `start-blog` branch.
+1. 右上の **Commit changes** ボタンをクリックし、`start-blog` ブランチに直接コミットします。
 
-1. With our headings created and committed, Mona should be busy reviewing your work and preparing the next steps.
+1. 見出しを作成してコミットできたので、Mona が作業を確認し、次のステップを準備しているはずです。
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>うまくいきませんか？</summary><br/>
 
-- Confirm you are editing the correct file and branch.
-- Double check your syntax. The must be a space between the `#` and first word.
+- 正しいファイルとブランチを編集していることを確認してください。
+- 構文をもう一度確認してください。`#` と最初の単語の間にはスペースが必要です。
 
 </details>

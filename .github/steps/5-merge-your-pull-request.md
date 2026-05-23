@@ -1,17 +1,17 @@
-## Step 5: Finish work
+## ステップ 5: 作業を完了する
 
-With our first blog post finished, let's merge it into the main branch.
+最初のブログ記事が完成したので、`main` ブランチにマージしましょう。
 
-### :keyboard: Activity: Merge blog post
+### :keyboard: アクティビティ: ブログ記事をマージする
 
-1. In the top navigation, select the **Pull requests** tab.
+1. 上部ナビゲーションで **Pull requests** タブを選択します。
 
-1. Create a new pull request, using `main` and `compare:start-blog` for the branch details.
+1. ブランチの詳細として `main` と `compare:start-blog` を使い、新しいプルリクエストを作成します。
 
-1. (Optional) Set a clear title and description for the pull request.
+1. （任意）プルリクエストにわかりやすいタイトルと説明を設定します。
 
-1. Scroll down and click the **Merge** button.
+1. 下にスクロールして **Merge** ボタンをクリックします。
 
-1. Click **Merge pull request**.
+1. **Merge pull request** をクリックします。
 
-1. With the pull request merged, Mona will prepare the final review. Nice work! You are done! 🎉
+1. プルリクエストがマージされると、Mona が最後の振り返りを準備します。お疲れさまでした。これで完了です！
