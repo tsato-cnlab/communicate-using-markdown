@@ -9,7 +9,7 @@ GitHub はコードだけの場所ではありません。ソフトウェア開�
 - **対象者**: 新しい開発者、GitHub を初めて使う人、学生。
 - **学べること**: コメントやテキストファイルで、Markdown を使ってリスト、画像、リンクを追加する方法。
 - **作るもの**: プレーンテキストファイルを更新して Markdown の書式を追加します。このファイルは、自分の GitHub Pages サイトを始めるためにも使えます。
-- **前提条件**: このコースでは、ファイル編集に加えてプルリクエストも扱います。これらに慣れていない場合は、先に [GitHub 入門](https://github.com/skills/introduction-to-github) コースを受講することをおすすめします。
+- **前提条件**: このコースでは、ファイル編集に加えてプルリクエストも扱います。これらに慣れていない場合は、先に [GitHub 入門](https://github.com/tsato-cnlab/introduction-to-github) コースを受講することをおすすめします。
 - **所要時間**: このコースは 1 時間以内で完了できます。
 
 このコースでは、次のことを行います。
@@ -24,7 +24,7 @@ GitHub はコードだけの場所ではありません。ソフトウェア開�
 
 演習を自分のアカウントにコピーします。その後、お気に入りの Octocat である Mona が最初のレッスンを準備するまで **約 20 秒** 待ち、**ページを再読み込み** してください。
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=Exercise%3A+Communicate+using+Markdown&visibility=public)
+[![](https://img.shields.io/badge/%E6%BC%94%E7%BF%92%E3%82%92%E3%82%B3%E3%83%94%E3%83%BC-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=tsato-cnlab&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown-ja&description=%E6%BC%94%E7%BF%92%3A+Markdown+%E3%81%A7%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%99%E3%82%8B&visibility=public)
 
 <details>
 <summary>うまくいきませんか？</summary><br/>

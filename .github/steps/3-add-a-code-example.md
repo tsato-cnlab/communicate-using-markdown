@@ -9,34 +9,34 @@
 
 ````md
 ```bash
-git clone https://github.com/skills/communicate-using-markdown
+git clone https://github.com/tsato-cnlab/communicate-using-markdown
 ```
 ````
 
 ```bash
-git clone https://github.com/skills/communicate-using-markdown
+git clone https://github.com/tsato-cnlab/communicate-using-markdown
 ```
 
 ### 例: JavaScript コード
 
 ````md
 ```js
-var myVar = "Hello, world!";
+var message = "こんにちは、世界！";
 ```
 ````
 
 ```js
-var myVar = "Hello, world!";
+var message = "こんにちは、世界！";
 ```
 
 ### :keyboard: アクティビティ: コード例を追加する
 
 1. `start-blog` ブランチで、`day-1.md` ファイルを編集用に開きます。
 
-1. **Review** のレベル 2 見出しの下に、GitHub Blog で学んだすばらしいコードスニペットとして次の内容を追加します。
+1. **振り返り** のレベル 2 見出しの下に、GitHub Blog で学んだすばらしいコードスニペットとして次の内容を追加します。
 
    ````md
-   Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
+   [ffmpeg](https://www.ffmpeg.org) を使って、画像や動画をダークモードからライトモードに変換する
 
    ```bash
    ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4

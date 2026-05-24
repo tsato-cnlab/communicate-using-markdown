@@ -45,10 +45,10 @@ width="200" align="right">
 
 1. `start-blog` ブランチで、`day-1.md` ファイルを編集用に開きます。
 
-1. **Morning Planning** のレベル 2 見出しの下に画像を挿入します。
+1. **朝の計画** のレベル 2 見出しの下に画像を挿入します。
 
    ```md
-   ![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+   ![曇りの朝](https://octodex.github.com/images/cloud.jpg)
    ```
 
 1. **Preview** タブを使って Markdown の書式を確認します。
@@ -58,7 +58,7 @@ width="200" align="right">
 1. シンプルな Markdown 版を、サイズと位置情報を含む HTML 版に置き換えます。ずっと良くなります。
 
    ```md
-   <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+   <img alt="曇りの朝" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
    ```
 
 1. 右上の **Commit changes** ボタンをクリックし、`start-blog` ブランチに直接コミットします。

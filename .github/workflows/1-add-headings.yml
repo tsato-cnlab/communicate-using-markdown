@@ -18,7 +18,7 @@ env:
 jobs:
   find_exercise:
     name: Find Exercise Issue
-    uses: skills/exercise-toolkit/.github/workflows/find-exercise-issue.yml@v0.6.0
+    uses: ./.github/workflows/ja-find-exercise-issue.yml
     with:
       issue-title-text: "Markdown でコミュニケーションする"
 
@@ -45,9 +45,8 @@ jobs:
       - name: Check if day-1.md file exists
         id: check-file-exists
         continue-on-error: true
-        uses: skills/exercise-toolkit/actions/file-exists@v0.6.0
-        with:
-          file: day-1.md
+        run: |
+          test -f day-1.md
 
       - name: Check for level 1 header
         id: check-h1

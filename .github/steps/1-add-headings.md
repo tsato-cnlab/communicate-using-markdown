@@ -11,18 +11,18 @@
 ### 例
 
 ```md
-# This is an `<h1>` heading, which is the largest
+# これは最大の `<h1>` 見出しです
 
-## This is an `<h2>` heading
+## これは `<h2>` 見出しです
 
-###### This is an `<h6>` heading, which is the smallest
+###### これは最小の `<h6>` 見出しです
 ```
 
-# This is an `<h1>` heading, which is the largest
+# これは最大の `<h1>` 見出しです
 
-## This is an `<h2>` heading
+## これは `<h2>` 見出しです
 
-###### This is an `<h6>` heading, which is the smallest
+###### これは最小の `<h6>` 見出しです
 
 ### :keyboard: アクティビティ: Markdown ファイルを作成する
 
@@ -47,15 +47,15 @@
 1. エディターの 1 行目に、ページタイトルとしてレベル 1 の見出しを入力します。
 
    ```md
-   # Daily Learning
+   # 日々の学び
    ```
 
 1. 各ブログ記事の名前として、レベル 2 の見出しをいくつか追加します。
 
    ```md
-   ## Morning Planning
+   ## 朝の計画
 
-   ## Review
+   ## 振り返り
    ```
 
 1. エディターの上にある **Preview** トグルをクリックして、レンダリング後の表示を確認します。
